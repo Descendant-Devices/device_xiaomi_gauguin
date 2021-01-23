@@ -54,7 +54,7 @@ TARGET_SCREEN_WIDTH := 1080
 
 # Camera
 PRODUCT_PACKAGES += \
-    GCamGOPrebuilt
+    CameraGo
 
 # A/B
 AB_OTA_UPDATER := false
