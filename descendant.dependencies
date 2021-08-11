@@ -2,13 +2,13 @@
  {
    "remote": "github",
    "repository": "Descendant-Devices/vendor_xiaomi_gauguin",
-   "target_path": "vendor/xiaomi/violet",
+   "target_path": "vendor/xiaomi/gaugin",
    "branch": "eleven"
  },
  {
    "remote": "github",
    "repository": "Descendant-Devices/kernel_xiaomi_gauguin",
-   "target_path": "kernel/xiaomi/violet",
+   "target_path": "kernel/xiaomi/gaugin",
    "branch": "eleven"
  }
 ]
